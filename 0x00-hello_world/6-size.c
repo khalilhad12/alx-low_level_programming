@@ -1,11 +1,11 @@
 
 #include <stdio.h>
 
- /**
-  * main - main function
-  * Description: 'C program for print'
-  * Return: o on success
-  */
+/**
+* main - main function
+* Description: 'C program for print'
+* Return: o on success
+*/
 
 int main(void)
 {
